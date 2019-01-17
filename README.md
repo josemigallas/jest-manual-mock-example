@@ -2,6 +2,8 @@
 
 A very simplistic example of how to mock our own modules in React and React Native using Jest.
 
+Inspired by https://stackoverflow.com/q/54213418/5466997.
+
 ### Run the Example
 
 ```
